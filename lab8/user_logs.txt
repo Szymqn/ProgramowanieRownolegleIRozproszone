@@ -1,0 +1,11 @@
+Sent message to the server: Kupie opla at 2023-12-04 01:18:28.146092
+Received message from the server: alpo eipuK at 2023-12-04 01:18:28.146092
+Sent message to the server: info at 2023-12-04 01:18:32.209082
+Received message from the server: Server Information:
+Hostname: LAPTOP-A76V2DH0
+System: Windows
+CPU Usage: 3.6%
+Memory Usage: 69.6%
+Disk Usage: 31.4%
+ at 2023-12-04 01:18:32.245880
+Connection to the server 127.0.0.1:54321 terminated at 2023-12-04 01:18:33.773199
